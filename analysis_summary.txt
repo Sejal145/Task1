@@ -1,0 +1,8 @@
+
+Average final grade (G3): 10.42
+Students scoring above 15: 40
+Correlation between studytime and G3: 0.10
+Average grade by gender:
+sex
+F     9.966346
+M    10.914439
